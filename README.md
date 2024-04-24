@@ -8,15 +8,16 @@ Welcome to the GPA Calculator app! This Flutter application helps students manag
    ```bash
    git clone https://github.com/your-username/gpa-calculator.git
    ```
-   
+
 2. **Navigate to the project directory:**
   ```bash
-   cd gpa-calculator
+  cd gpa-calculator
   ```
 
 3. **Install dependencies:**
    ```bash
    flutter pub get
+   ```
 
 ## Usage
 
