@@ -26,6 +26,11 @@ Welcome to the GPA Calculator app! This Flutter application helps students manag
    flutter run
    ```
 
+2. **Test:**
+   ```bash
+   flutter test
+   ```
+
 ## Features
 * Add and manage subjects with course details.
 * Calculate GPA instantly based on entered subject data.
